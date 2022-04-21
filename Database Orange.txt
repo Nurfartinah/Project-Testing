@@ -1,0 +1,1 @@
+   /*When User click jobtitle and enters <vacancyname> and <hiringmanager> and <noposition> and  <description>*/
